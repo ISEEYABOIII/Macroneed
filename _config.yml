@@ -8,12 +8,25 @@ tagline: 🍽️ Luxusní krabičky. Čerstvé ingredience. 💫 Rychlý gourmet
 Image_URL: https://media.discordapp.net/attachments/1155859474158989473/1158088038270914600/logo.png?ex=651af908&is=6519a788&hm=b9131e381a49d35880e249abce62211a073720bda88851165ae8456555917417&=&width=867&height=867
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://media.discordapp.net/attachments/1155859474158989473/1158088038543536179/pozadi.png?ex=651af908&is=6519a788&hm=db01ddec8b65e742a4e8b417d15fd0c674ab3e57e968dc72cf3f2e9a102dd39a&=&width=2500&height=625
+Cover_Image: https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 
 # SOCIAL MEDIA
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/company/
+    Username: macroneed
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+    
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: macroneed.official
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
     
     # FACEBOOK
   - Name: Facebook
@@ -22,12 +35,20 @@ links:
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: macroneed.official
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+    # DISCORD
+  - Name: Discord
+    URL: 'https://discord.gg/S63TGET5mj'
+    Username: 
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:info@macroneed.cz'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
 
     # TWITTER
   - Name: Twitter
@@ -51,12 +72,7 @@ links:
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/company/
-    Username: macroneed
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+
 
     # YOUTUBE
   - Name: YouTube
@@ -80,12 +96,7 @@ links:
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:info@macroneed.cz'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
+
 
   #   # Drupal
   # - Name: Drupal
@@ -113,7 +124,7 @@ links:
 
     # MESSENGER
   - Name: Messenger
-    URL: https://m.me
+    URL: 
     Username: macroneed.official
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
@@ -163,13 +174,7 @@ links:
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
 
-     # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg/S63TGET5mj'
-    Username: 
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
+
 
     # PINTEREST
   - Name: Pinterest
