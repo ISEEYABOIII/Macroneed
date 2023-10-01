@@ -2,13 +2,15 @@
 name: MΛCRONΞΞD
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: cus pic
+tagline: 🍽️ Luxusní krabičky. Čerstvé ingredience.
+💫 Rychlý gourmet zážitek.
+🌿 Žádný zbytečný odpad.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://scontent.fprg1-1.fna.fbcdn.net/v/t39.30808-6/384341987_3592725647711202_5867501252540294870_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=8rmBNmhDCUMAX_vz0Jf&_nc_ht=scontent.fprg1-1.fna&oh=00_AfCNI3k6qiVabelkd0NKDlPHxIDf1tjegL5hPZFoYFW3rg&oe=651EAEC5
+Image_URL: assets/images/logo.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://picsum.photos/1080?nocache=
+Cover_Image: ssets/images/pozadi.png
 
 # SOCIAL MEDIA
 links:
@@ -114,7 +116,7 @@ links:
     # MESSENGER
   - Name: Messenger
     URL: https://m.me
-    Username: theharshtrivedi
+    Username: macroneed.official
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
