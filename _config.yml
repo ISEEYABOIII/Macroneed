@@ -7,10 +7,10 @@ tagline: 🍽️ Luxusní krabičky. Čerstvé ingredience.
 🌿 Žádný zbytečný odpad.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: assets/images/logo.png
+Image_URL: https://media.discordapp.net/attachments/1155859474158989473/1158088038270914600/logo.png?ex=651af908&is=6519a788&hm=b9131e381a49d35880e249abce62211a073720bda88851165ae8456555917417&=&width=867&height=867
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: ssets/images/pozadi.png
+Cover_Image: https://media.discordapp.net/attachments/1155859474158989473/1158088038543536179/pozadi.png?ex=651af908&is=6519a788&hm=db01ddec8b65e742a4e8b417d15fd0c674ab3e57e968dc72cf3f2e9a102dd39a&=&width=2500&height=625
 
 # SOCIAL MEDIA
 links:
